@@ -1,4 +1,4 @@
- export function calculateOboi(roomPerimetr, roomHeight, oboiWidth, oboiLength) {
+export function calculateOboi(roomPerimetr, roomHeight, oboiWidth, oboiLength) {
     let sizePerimetr = roomPerimetr;
     let sizeHeidht = roomHeight + 0.1;
     let sizeOboiWidth = oboiWidth;
