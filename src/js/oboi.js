@@ -12,4 +12,3 @@ export function calculateOboi(roomPerimetr, roomHeight, oboiWidth, oboiLength) {
     return Math.ceil(result);
 }
 
-console.log(calculateOboi(5.75, 2.75, 0.75, 12));
